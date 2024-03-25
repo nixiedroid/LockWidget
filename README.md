@@ -9,7 +9,7 @@ This is a simple application for android that provides double tap to lock on sto
 ### Requirements
 __Android 9.0+__
 ### Workaround for restricted setting (Android 13+)
-![Screenshot. Restricted Setting Message](images/problem.jpg | width=100)
+![Screenshot. Restricted Setting Message](images/problem.jpg)
 If you encountered warning screen, like on the image above
 follow this steps:
 
@@ -19,6 +19,6 @@ follow this steps:
 4. Tap More and then Allow restricted settings.
 5. Follow the on-screen instructions.
 
-![Screenshot. Allow Restricted Settings Button](images/solution.jpg| width=100)
+![Screenshot. Allow Restricted Settings Button](images/solution.jpg)
 
 
