@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider
+        android:minWidth="100dp"
+        android:minHeight="100dp"
+        android:updatePeriodMillis="0"
+        android:initialLayout="@layout/widget_layout"
+        android:previewImage="@drawable/lock_icon"
+        android:resizeMode="horizontal|vertical"
+        android:minResizeWidth="50dp"
+        android:minResizeHeight="50dp"
+        android:widgetCategory="home_screen|keyguard"
+        xmlns:android="http://schemas.android.com/apk/res/android"/>

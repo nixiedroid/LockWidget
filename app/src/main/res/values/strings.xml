@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_info">
+        We are not observing any of your actions.
+        This permission is used only to simulate power button press
+    </string>
+</resources>
